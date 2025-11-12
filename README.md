@@ -12,8 +12,13 @@ A real-time web application for detecting **emergency vehicles** (ambulance, fir
 ## 📸 Demo
 
 > Real-time detection using webcam feed with audio + visual alerts. Bounding boxes only appear for confirmed emergency vehicles.
-
-![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25icnIybXgycjh4dmJrN2cxdHphZ2dpM2g1cWN2bnhnYXB5YjdsaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif)
+> <br>
+> <b>NOTE:</b> Click the image below for demo.
+<a href="https://jatinnama7-ambulance-detction-system.hf.space/" target="_blank">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25icnIybXgycjh4dmJrN2cxdHphZ2dpM2g1cWN2bnhnYXB5YjdsaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" 
+       alt="Demo GIF" 
+       style="width:400px; height:auto; border:none;" />
+</a>
 
 ---
 
@@ -172,3 +177,4 @@ MIT License. Use freely for research, education, or personal use.
 Made with ❤️ by Jatin Nama.  
 📧 Email: jatinnama7@gmail.com  
 🌐 [GitHub](https://github.com/jatinnama7)
+
